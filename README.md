@@ -15,8 +15,6 @@ Software Developer & Coder 🧠
 
 ![Burgbearg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burgbearg&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burgbearg&layout=compact)
-
 ---
 
 ## 🧰 Tools & Skills
